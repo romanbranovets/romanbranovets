@@ -16,7 +16,7 @@
 
 На странице опубликованы проекты, которые сделаны в учебных целях.
 
-Мои коммерческие проекты, к сожалению, загружать не могу ☹
+<!-- Мои коммерческие проекты, к сожалению, загружать не могу ☹
 <!--
 **romanbranovets/romanbranovets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
