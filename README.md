@@ -1,8 +1,8 @@
 <div align="center">
 
-**ML / DL Engineer**
+# ML / DL Engineer
 
-**Computer Vision • LLM • Generative AI • Reinforcement Learning • Robotics**
+**👁️ Computer Vision • 💬 LLM • 🔮 Generative AI • 🎯 Reinforcement Learning • 🤖 Robotics**
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/romanbranovets)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:romanbranovets@yandex.ru)
@@ -21,7 +21,7 @@
 
 <br>
 
-<img src="https://upload.wikimedia.org/wikipedia/ru/0/01/Logo_Color_No-BG(2).svg" width="80" alt="МГТУ им. Н.Э. Баумана">  
+<img src="https://upload.wikimedia.org/wikipedia/ru/0/01/Logo_Color_No-BG(2).svg" width="100" alt="МГТУ им. Н.Э. Баумана">  
 
 **МГТУ им. Н.Э. Баумана**  
 *Бакалавриат, Мехатроника и робототехника (с отличием)*
@@ -71,3 +71,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Hydra](https://img.shields.io/badge/Hydra-4B32C3?style=for-the-badge&logo=python&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E1?style=for-the-badge&logo=mlflow&logoColor=white)
+
+
+---
+![Visitor Count](https://komarev.com/ghpvc/?username=romanbranovets&color=8B5CF6&style=for-the-badge&label=👀+PROFILE+VIEWS)
